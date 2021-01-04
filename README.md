@@ -1,5 +1,4 @@
 # Be Greedy in Multi-Armed Bandits
----
 
 This repository contains the companion code for the following [paper]#(https://arxiv.org/TODO):
 
@@ -50,7 +49,3 @@ The primary dependencies are:
 ## License
 
 This code has a MIT license.
-
-## Acknowledgements
-
-TODO
